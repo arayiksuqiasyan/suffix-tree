@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/arayiksuqiasyan/suffix-tree/static/css/main.bc721b08.chunk.css",
+    "main.js": "/arayiksuqiasyan/suffix-tree/static/js/main.ae02d48e.chunk.js",
+    "main.js.map": "/arayiksuqiasyan/suffix-tree/static/js/main.ae02d48e.chunk.js.map",
+    "runtime-main.js": "/arayiksuqiasyan/suffix-tree/static/js/runtime-main.b4452b87.js",
+    "runtime-main.js.map": "/arayiksuqiasyan/suffix-tree/static/js/runtime-main.b4452b87.js.map",
+    "static/js/2.b7b27e3d.chunk.js": "/arayiksuqiasyan/suffix-tree/static/js/2.b7b27e3d.chunk.js",
+    "static/js/2.b7b27e3d.chunk.js.map": "/arayiksuqiasyan/suffix-tree/static/js/2.b7b27e3d.chunk.js.map",
+    "static/js/3.fcc06316.chunk.js": "/arayiksuqiasyan/suffix-tree/static/js/3.fcc06316.chunk.js",
+    "static/js/3.fcc06316.chunk.js.map": "/arayiksuqiasyan/suffix-tree/static/js/3.fcc06316.chunk.js.map",
+    "index.html": "/arayiksuqiasyan/suffix-tree/index.html",
+    "static/css/main.bc721b08.chunk.css.map": "/arayiksuqiasyan/suffix-tree/static/css/main.bc721b08.chunk.css.map",
+    "static/js/2.b7b27e3d.chunk.js.LICENSE.txt": "/arayiksuqiasyan/suffix-tree/static/js/2.b7b27e3d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4452b87.js",
+    "static/js/2.b7b27e3d.chunk.js",
+    "static/css/main.bc721b08.chunk.css",
+    "static/js/main.ae02d48e.chunk.js"
+  ]
+}
